@@ -7,13 +7,18 @@
 
 ## **Lesson 1**: *Descriptive statistics*
 
+**Achievements**: histogram, box and whisker plots
+
+Further notes: 
+- ODS graphics for plots
+
+
+## **Lesson 2**: *ANOVA*
+
 **Achievements**: ...
 
 Further notes: 
-- observations = rows ...
-
-
-## **Lesson 2**: *...*
+- ...
 
 
 
