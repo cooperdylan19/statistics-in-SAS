@@ -7,7 +7,7 @@
 
 ## **Lesson 1**: *Descriptive statistics*
 
-**Achievements**: histogram, box and whisker plots
+**Achievements**: histogram plots, box and whisker plots
 
 Further notes: 
 - ODS graphics for plots
